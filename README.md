@@ -17,7 +17,7 @@ The repository is organized into folders corresponding to each module of the cou
 
 ## Useful Links
 
-- [Link to the Course on LinkedIn Learning]([link-to-the-course-on-linkedin-learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?resume=false&u=26889322))
+- [Link to the Course on LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?resume=false&u=26889322)
 - [Link to the Completion Certificate](link-to-the-certificate)
 
 ## Usage Instructions
