@@ -1,0 +1,41 @@
+When you look around for information about JavaScript and feel a bit overwhelmed by all the different things with the label JavaScript associated with them, you're not alone.
+There's Vanilla JavaScript and then there's ECMAScript and ES6 and ES2025 and ES2017 and ES2020 and TypeScript and CoffeScript, and then there's React and Vue and Angular and Gulp and Babel and WebPack and Node.js and somehow all of these things are related to ro under the umbrella of JavaScript.
+And everyone is saying, 'You should learn this first, no, this first, no, this first, no, that other thing first'.
+The JavaScript landscape is evolving rapidly because JavaScript has become sich an essential part of the web platform and all of these different things and names encapsulate a discrete aspect of the language itself or how it's implemented or how it;s worked with or a tool or framework built on or used with JavaScript (JavaScript is constantly evolving).
+So to make sense of all of this, here is Morten's incomplete guide to navigating the JavaScript landscape.
+First off, at the core of all of this sits JavaScript itself (the core language), often colloquially referred to as Vanilla JavaScript, Vanilla JS or JavaScript Proper. This is the scripting language itself and the scripting language for the web.
+This is what you write when you write JavaScript and what we'll cover in this course, everything else is built on top of JavaScript itself, Vanilla JavaScript or JavaScript Proper.
+The browser implementation specification for JavaScript is called ECMAScript, named afteer the European Computer Manufacturers Association, ECMA.
+This group is in charge of defining the specification for JavaScript.
+Now ECMAScript is not the language itself, but the official description of how the language should e interpreted by browsers.
+This is meant to ensure that when you write JavaScript, it behaves the same way no maatter what browser is used.
+When people say they write ECMAScript or ES6 or 2015 or 2017 or 2020 or something like that, they usually mean they're writing JavaScript that is at the cutting edge of development (refers to the use of features defined in ECMAScript, but not necessarily supported by modern browsers),  effectively, the JavaScript of the future.
+When people write some version of ECMAScript, they typically use a tool called Babel to convert their code back into JavaScript the current browser can read (Using ECMAScript usually means also using Babel.jss to make it work in current browser implementations).
+JavaScript is an opinionated codign language and some developers either don't like JavaScript's opinions or they need specific features not providen by JavaScript.
+To get around this issue, they've developed abstracted versions of JavaScript with these additional features added.
+The most popular of these is TypeScript.
+TypeScript is heavily used in modern JavaScript frameworks.
+And you can usually spot TypeScript by looking at the file name.
+TypeScript files typically have the .ts file name extension.
+TypeScript: Variation, dialect, or flavor of JavaScript introducing features like strong typing.
+Thing in TypeScript and CoffeScript and all the variations of JavaScript as dialects of JavaScript.
+The modern web runs on JavaScript frameworks.
+These are tools written in JavaScript to render content on the web in the form of applications.
+React, Vue, Angular: JavaScript frameworks allowing us to write JavaScript-based front-end applications.
+The most popular of these frameworks are React or React.js, Vue or Vue.js and Angular or AngularJS.
+They all add an abstraction layer on top of JavaScript to do things in a more streamlined and efficient way.
+As an example, React uses JSX or JavaScript XML which simplifies how we mix JavaScript and HTML.
+React, Vue, Angular: Introduce new coding conventions like JSX, and reliance on tools like Babel, WebPack, and Node.js.
+With JavaScript frameworks come build the tools.
+npm, WebPack, Gulp: Build tools and infrastructure to automate the process of optimizing human-readable JavaScript for the best browser performance.
+These are helper applications, typically automated that run on your computer on in the cloud to turn your human written and readable JavaScript code into code optimized for the browser.
+I've already mentioned Babel.
+Other common tools include NPM, WebPack, Grunt, Gulp and so on.
+Finally, in the last several years, JavaScript has migrated from the browser to the server, so we can now write JavaScript to run on the back-end as well as the front-end of our applications.
+Node.js: JavaScript server runtime used to run JavaScript everywhere; used to run npm, WebPack, Babel, and more on your computer.
+Node.js is the ubiquitous JavaScript server runtime used for this purpose.
+And when you work with modern JavaScript, you'll be interfacing with Node.js on your computer all the time, througn the Node package manager or NPM.
+Considering all of this, here is ypur takeaway.
+JavaScript is the core Language (Learn JavaScript first, then expand, optimize and specialize your knowledge.)
+JavaScript is the core underlying language for anything and everything we've just talked about.
+And understanding pure vanilla JavaScript is the key to understanding all this other stuff.

@@ -1,0 +1,19 @@
+Take it from me, the dyslectic coder.
+Writing code without any errors is not easy.
+And writing code that is consistently formatted so all indentations are the same and the code conventions and guides are followed correctly is also not easy.
+To help with all of this, your code editor has a bunch of useful tools built in including automatic syntax highlighting, which is what you see if I open a file here.
+The color coding that indicates the different types of content that are in this file.
+And other features like automagically cleaning up your indentation an so on.
+To help us write cleanly formatted code without many errors, we can also add to the functionality of the code editor using extensions.
+In this example, we'll add in two new extensions.
+ESLint and Prettier.
+And you can install then both directly from inside VS code by going to the extensions option just searching for ESLint and installing it and then searching for Prettier and installing.
+it looks like this, and it looks like this.
+The Prettier code format does exactly what the name suggests, this makes the formatting of your code prettier for your human eyes.
+Prettier helps automagically clean up your formatting.
+So that all your indentations are correct.
+So that all your parentheses are lined up properly and things just look clean when you're working with a code.
+It sounds really finicky to use a tool like this but the reality is it makes it easier to work with your code, especially if you're working with other people because all the code will be formatted the same way.
+ESLint helps automagically detect coding errors and can do basic cleanup automatically.
+ESLint is sort of like a spellcheck but for JavaScript.
+It lints, as in goes through your code and finds all the lint and takes it out.
